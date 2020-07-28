@@ -10,6 +10,7 @@ syntax on
 "Sets default encoding and sets vim paste buffer to system buffer"
 set encoding=utf-8
 set clipboard=unamedplus
+set number
 
 set tabstop=4
 set softtabstop=4
